@@ -1,2 +1,2 @@
-# CYOA
-A proof-of-concept Choose Your Own Adventure Game written in C++
+# Password Guesser Game
+A fun little game made for my brother that has you guess the correct password, with sentient AI. Written in C++.
